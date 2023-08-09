@@ -1,0 +1,458 @@
+[
+  {
+    "name": "VATAN",
+    "address": "Söğütözü Cad. 2176.Sok. No:5/48 Söğütözü/Çankaya/ANKARA",
+    "code": "3122847900",
+    "phoneNumber": "\"+90-3122847900",
+    "geo1": "39.910170345594080",
+    "geo2": "32.798588275909424"
+  },
+  {
+    "name": "BAHÇELİEVLER",
+    "address": "3.Cadde(AzerbaycanCad) No:31/B Bahçelievler/Çankaya/ANKARA",
+    "code": "3122131284",
+    "phoneNumber": "\"+90-3122131284",
+    "geo1": "39.928971297531030",
+    "geo2": "32.826119810342790"
+  },
+  {
+    "name": "YURTSEVEN FATİH",
+    "address": "DemetlaleMah.İvedikCad.No:89/EDemetevler/Yenimahalle/ANKARA(AKBANKKarşısı)",
+    "code": "3123463213",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "ÇAMLIDERE",
+    "address": "PamuklarMah.KızılcahamamCdNo:80/AŞentepe/Yenimahalle/ANKARA(EskiTelevizyoncad.)",
+    "code": "3123159100",
+    "phoneNumber": "\"+90-3123159100",
+    "geo1": "39.981323220512785",
+    "geo2": "32.805540561676025"
+  },
+  {
+    "name": "ÜMRAN",
+    "address": "MisketMah.AnadoluCad.No:80Mamak/ANKARA(OnurUğurluASMkarşısı)",
+    "code": "3125118764",
+    "phoneNumber": "\"+90-3125118764",
+    "geo1": "39.921733968982820",
+    "geo2": "32.913762331008910"
+  },
+  {
+    "name": "SEMA",
+    "address": "MutluMah.İmamAlimSultanCad.No:95Mamak/ANKARA(MutluSağlıkOcağıyanı)",
+    "code": "5527276868",
+    "phoneNumber": "\"+90-5527276868",
+    "geo1": "39.910748470265380",
+    "geo2": "32.898373911157250"
+  },
+  {
+    "name": "NAR",
+    "address": "TıpFak.Cad.OkulSokNo:21/A-BMamak/Ankara(Abidinpaşaİşbankasıkarşısok.)",
+    "code": "3123682929",
+    "phoneNumber": "\"+90-3123682929",
+    "geo1": "39.927485223849590",
+    "geo2": "32.888227701187134"
+  },
+  {
+    "name": "AKAY BESTEKAR",
+    "address": "EsatCad.No:14/CBakanlıklar/Çankaya/ANKARA(EskiYapıkrediBank.AkayŞb.(AkayYokuşu))",
+    "code": "3124181913",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "DİLEK SIHHİYE",
+    "address": "SağlıkMah.AdnanSaygunCad.No:2-4/AÇankaya/ANKARA(SıhhıyeKöprüsüyakını)",
+    "code": "3124331728",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "UMAR",
+    "address": "TalatpaşaBulv.ÇarşıSok.No:6/ASamanpazarı/Altındağ/ANKARA(AltındağBelediyesiarkası)",
+    "code": "3123107061",
+    "phoneNumber": "\"+90-3123107061",
+    "geo1": "39.934279762328050",
+    "geo2": "32.863309979438780"
+  },
+  {
+    "name": "YENİ BARIŞ",
+    "address": "Gn.TevfikSağlamCad.ŞehitVeliKaraSok.BarışSitesiC2Blk.No:16/AEtlik/Keçiören/ANKARA(BPKar.Makromarketkar.)",
+    "code": "3123226686",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "EMEK",
+    "address": "AşağıEğlenceMah.AyvalıCad.No:8/AKeçiören/ANKARA(EtlikŞehirHastanesiÇıkışı)",
+    "code": "3123525843",
+    "phoneNumber": "\"+90-3123525843",
+    "geo1": "39.970211618351385",
+    "geo2": "32.831971049308780"
+  },
+  {
+    "name": "KAVACIK",
+    "address": "Kavacık Subayevleri Mah. Sandalcı Sok. No:20/B-Keçiören/ANKARA",
+    "code": "3125172320",
+    "phoneNumber": "\"+90-3125172320",
+    "geo1": "39.967927822602384",
+    "geo2": "32.873690128326416"
+  },
+  {
+    "name": "NUR İKRAM",
+    "address": "Önder Mah.Demirhendek Cad.No:44/A Siteler/Altındag/ANKARA",
+    "code": "3123483348",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "GÖKAY",
+    "address": "KuşcağızMah.ÇambaşıCad.No:54/BKeçiören/ANKARA(MevlanaKültürMerkeziyanı)",
+    "code": "3123526969",
+    "phoneNumber": "\"+90-3123526969",
+    "geo1": "40.000070722770210",
+    "geo2": "32.837749061873180"
+  },
+  {
+    "name": "PINARBAŞI",
+    "address": "UyanışMah.GülbabaCad.1098.SokakNo:8/AKeçiören/ANKARA(UyanışOtobüsDuraklarıİlkKalkışyeri)",
+    "code": "3125811518",
+    "phoneNumber": "\"+90-3125811518",
+    "geo1": "40.007902748707615",
+    "geo2": "32.867150902748110"
+  },
+  {
+    "name": "TAKSIR",
+    "address": "BağlarbaşıMah.KızlarpınarıCad.No:88/BKeçiören/ANKARA(LCWaikikimağazasıyanı)",
+    "code": "3123147979",
+    "phoneNumber": "\"+90-3123147979",
+    "geo1": "39.987741474798604",
+    "geo2": "32.875589132308960"
+  },
+  {
+    "name": "NAZAN",
+    "address": "AziziyeMah.HoşdereCad.No.119/BÇankaya/ANKARA(Eti-Teksitesi)",
+    "code": "3124407580",
+    "phoneNumber": "\"+90-3124407580",
+    "geo1": "39.890632624561260",
+    "geo2": "32.846943140029910"
+  },
+  {
+    "name": "ÖVEÇLER",
+    "address": "HuzurMah.LizbonCad.No:112/B(8)Öveçler/Dikmen/Çankaya/ANKARA(EskiÖveçler2.Cad.)",
+    "code": "3124769112",
+    "phoneNumber": "\"+90-3124769112",
+    "geo1": "39.877223583114680",
+    "geo2": "32.822985649108890"
+  },
+  {
+    "name": "KAYIRAN",
+    "address": "CamiatikMah.CumhuriyetMeydanıNo:30/31Ayaş/ANKARA",
+    "code": "3127121084",
+    "phoneNumber": "\"+90-3127121084",
+    "geo1": "40.019201307686760",
+    "geo2": "32.330703735351560"
+  },
+  {
+    "name": "AKYURT MERKEZ",
+    "address": "BeyazıtMah.SevdaCaddesiNo:6/DAkyurt/ANKARA(Akyurt1NoluASMKarşısı)",
+    "code": "3125122612",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "ALTINTAŞ",
+    "address": "CumhuriyetMah.HürriyetCad.No:18/18Temelli/Sincan/ANKARA(KasapAliYanı)",
+    "code": "3126231354",
+    "phoneNumber": "\"+90-3126231354",
+    "geo1": "39.726681681765770",
+    "geo2": "32.354539185762405"
+  },
+  {
+    "name": "YAŞAMKENT ATA",
+    "address": "YaşamkentMah.3222.CaddeNo:2/DGözümparkYaşamMerkeziÇayyolu/Çankaya/ANKARA(ZiraatBankası-Carrefoursayanı)",
+    "code": "3122176060",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "ALTINIŞIK",
+    "address": "AngoraEvleriMah.Siteiçi-DoraİşMerkeziDenizkızıCad.No:2/5Beysukent/Çankaya/Ankara(MutlukentMah.ÇeşmeCad.)",
+    "code": "3122253828",
+    "phoneNumber": "\"+90-3122253828",
+    "geo1": "39.877781402114240",
+    "geo2": "32.709109783172610"
+  },
+  {
+    "name": "BOTANİK PARK",
+    "address": "YeniBatıMah.ŞehitKaymakamMuhammedFatihSafiTürkBulvarıAhsenSitesiBBlokNo:29/AÇakırlar/Yenimahalle/ANKARA(ÇakırlarBüyükKavşak)",
+    "code": "3125666662",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "MESUT",
+    "address": "DikicilerSok.No:7Beypazarı/ANKARA(MerkezYeniCamicivarı)",
+    "code": "3127632123",
+    "phoneNumber": "\"+90-3127632123",
+    "geo1": "40.153686857794035",
+    "geo2": "31.931762695312500"
+  },
+  {
+    "name": "ŞENBABA",
+    "address": "KartaltepeMah.AlparslanTürkeşBulvarıNo:22/ABala/ANKARA",
+    "code": "3128761555",
+    "phoneNumber": "\"+90-3128761555",
+    "geo1": "39.551987767008015",
+    "geo2": "33.124337196350100"
+  },
+  {
+    "name": "DEVA",
+    "address": "CumhuriyetMah.BaşakSok.No:21Çubuk/ANKARA",
+    "code": "3128371334",
+    "phoneNumber": "\"+90-3128371334",
+    "geo1": "40.235508668939130",
+    "geo2": "33.030395507812500"
+  },
+  {
+    "name": "NUR",
+    "address": "CumhuriyetCad.No:57/CÇamlıdere/ANKARA",
+    "code": "3127531017",
+    "phoneNumber": "\"+90-3127531017",
+    "geo1": "40.488737421022810",
+    "geo2": "32.472496032714844"
+  },
+  {
+    "name": "DEMİRCANLAR",
+    "address": "PiyadeMah.1681.Cad.No:26/AEtimesgut/ANKARA(3.NoluASMkarşısı)",
+    "code": "3122260294",
+    "phoneNumber": "\"+90-3122260294",
+    "geo1": "39.948585474694720",
+    "geo2": "32.642011642456055"
+  },
+  {
+    "name": "EZGİ",
+    "address": "BağlıcaMah.BağlıcaBulvarı1343.SokakNo:6Bağlıca-Etimesgut/ANKARA(Çevreyolugirişiyeniyunusmarketyanı)",
+    "code": "3129998044",
+    "phoneNumber": "\"+90-3129998044",
+    "geo1": "39.887583661540610",
+    "geo2": "32.616551693427030"
+  },
+  {
+    "name": "ATAKENT",
+    "address": "AtakentMah.1512.Cad.No:108/DElvankent/Etimesgut/ANKARA(BankaBloklarıBIMMarketYanı)",
+    "code": "3122600891",
+    "phoneNumber": "\"+90-3122600891",
+    "geo1": "39.955568101172160",
+    "geo2": "32.611552476882935"
+  },
+  {
+    "name": "LAVİNYA",
+    "address": "GöksuMah.1.İnönüCad.No:13/CEtimesgut/ANKARA(Hz.HaticeCamialtı)",
+    "code": "5541893533",
+    "phoneNumber": "\"+90-5541893533",
+    "geo1": "39.993125520163530",
+    "geo2": "32.641484737359860"
+  },
+  {
+    "name": "DAMLA SU",
+    "address": "KemalpaşaMah.CumhuriyetCad.SoğukpınarSok.No:4Elmadağ/ANKARA",
+    "code": "3128633222",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "VERESELİ GÜDÜL",
+    "address": "YukarıGençlikCad.No:10/AGüdül/ANKARA",
+    "code": "3127281533",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "ATAMAN",
+    "address": "GaziosmanpaşaMah.377.Sok.No:15/AGölbaşı/ANKARA",
+    "code": "3124847003",
+    "phoneNumber": "\"+90-3124847003",
+    "geo1": "39.792339066267650",
+    "geo2": "32.804848551750180"
+  },
+  {
+    "name": "SAĞLIK",
+    "address": "YeniMah.KoopratifEvleriSokakNo:13/AHaymana/ANKARA(KültürMerkeziKarşısı-ASMyanı)",
+    "code": "3126582267",
+    "phoneNumber": "\"+90-3126582267",
+    "geo1": "39.435550813650394",
+    "geo2": "32.495874166488650"
+  },
+  {
+    "name": "YILMAZ",
+    "address": "MenderesBulvarıSağlık1.Sok.No:2Hasanoğlan/Elmadağ/ANKARA(2.Tel:3128661233)",
+    "code": "3128663771",
+    "phoneNumber": "\"+90-3128663771",
+    "geo1": "39.998689957678940",
+    "geo2": "33.180084228515625"
+  },
+  {
+    "name": "YELİZ",
+    "address": "YenişehirMah.DevletBahçeliCad.No:6/BYahşihan",
+    "code": "3183572002",
+    "phoneNumber": "\"+90-3183572002",
+    "geo1": "39.849279486473820",
+    "geo2": "33.452548384666440"
+  },
+  {
+    "name": "KESKİN MERKEZ",
+    "address": "YeniceMah.Prof.Dr.BeşirAtalayCad.No:18/AKeskin/Kırıkkale",
+    "code": "3185152023",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "MARMARA",
+    "address": "KurtuluşMah.MenderesCad.No:103/AMerkez/KIRIKKALE(KırgazveAğızDişHastanesiYanı-A101Karşısı)",
+    "code": "3182245432",
+    "phoneNumber": "\"+90-3182245432",
+    "geo1": "39.840720075883770",
+    "geo2": "33.514525444591980"
+  },
+  {
+    "name": "METİN",
+    "address": "KurtuluşMah.İnönüCad.No:1/CKarakeçili/KIRIKKALE",
+    "code": "3184743033",
+    "phoneNumber": "\"+90-3184743033",
+    "geo1": "39.598744363923240",
+    "geo2": "33.379865884780884"
+  },
+  {
+    "name": "CENNET",
+    "address": "CumhuriyetMah.AnkaraCad.No:34/ADeliceKIRIKKALE",
+    "code": "3186185433",
+    "phoneNumber": "\"+90-3186185433",
+    "geo1": "39.943547507071926",
+    "geo2": "34.032409787178040"
+  },
+  {
+    "name": "KARA",
+    "address": "ÇalılıözMah.525.Sok.No:8Merkez/KIRIKKALE(SeyrantepeSağlıkOcağıKarşısı)",
+    "code": "3182255560",
+    "phoneNumber": "\"+90-3182255560",
+    "geo1": "39.850803292018440",
+    "geo2": "33.494369875152190"
+  },
+  {
+    "name": "YENİ AYŞEM",
+    "address": "HalitCevriAslangilMah.20.Sok.No:14/CKalecik/ANKARA",
+    "code": "3128570859",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "VERESELİ KADİR",
+    "address": "YeniceMah.ŞehitMehmetErdemCad.No:12/CKızılcahamam/ANKARA",
+    "code": "3127366464",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "DERMAN",
+    "address": "AtatürkMah.29MayısCad.No:76/AKahramankazan/ANKARA",
+    "code": "3128140660",
+    "phoneNumber": "\"+90-3128140660",
+    "geo1": "40.201952689540570",
+    "geo2": "32.681579589843750"
+  },
+  {
+    "name": "MÜFTÜOĞLU",
+    "address": "LalahanMah.BaharSok.No:2/BLalahan/Mamak/ANKARA",
+    "code": "3128651885",
+    "phoneNumber": "\"+90-3128651885",
+    "geo1": "39.969226984896416",
+    "geo2": "33.114166259765625"
+  },
+  {
+    "name": "NALLIHAN",
+    "address": "AliağaMah.BursaCad.No:36Nallıhan/ANKARA",
+    "code": "3127851707",
+    "phoneNumber": "\"+90-3127851707",
+    "geo1": "40.191463038040630",
+    "geo2": "31.341247558593750"
+  },
+  {
+    "name": "ÖZCAN",
+    "address": "ZaferMh.MenekşeCd.No:6/11Polatlı/ANKARA",
+    "code": "3126213646",
+    "phoneNumber": "\"+90-3126213646",
+    "geo1": "39.581431395615190",
+    "geo2": "32.142723798751830"
+  },
+  {
+    "name": "FATİH ALKAN",
+    "address": "YunusEmreMah.YunusEmreCad.No:95/17-18Pursaklar/Ankara(ÖzelDuruTıpMerkeziKarşısı)",
+    "code": "3123809080",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "BAŞ",
+    "address": "AtatürkMah.Polatlı2Cad.No:50/ASincan/ANKARA(LokmanHekimHast.önkapıkar.)",
+    "code": "3122700107",
+    "phoneNumber": "\"+90-3122700107",
+    "geo1": "39.956798108680230",
+    "geo2": "32.582713365554810"
+  },
+  {
+    "name": "ÇAĞLAR",
+    "address": "AndiçenMah.AhiMesutBulvarıNo:214/BSincan/ANKARA(12.Cad.KadınDoğ.Çoc.Acilkapıkar.)",
+    "code": "3127636480",
+    "phoneNumber": "\"+90-3127636480",
+    "geo1": "39.950255119250420",
+    "geo2": "32.586071491241455"
+  },
+  {
+    "name": "YENİKENT BERK",
+    "address": "FevziÇakmakMah.KazımKarabekirCad.No:12/A/15-16Yenikent/SincanANKARA(BucukCamisiveAileHekimliğiKarşısı)",
+    "code": "3122770289",
+    "phoneNumber": null,
+    "geo1": null,
+    "geo2": null
+  },
+  {
+    "name": "İLAÇEVİ",
+    "address": "UlubatlıHasanMah.CandanSok.No:1/1Fatih/Sincan/ANKARA(Çarşambapazarı)",
+    "code": "3122727077",
+    "phoneNumber": "\"+90-3122727077",
+    "geo1": "39.991945998436535",
+    "geo2": "32.594313919544220"
+  },
+  {
+    "name": "HALK",
+    "address": "KaleMah.HüseyinAndaçSok.No:22/AŞereflikoçhisar/ANKARA",
+    "code": "3126862848",
+    "phoneNumber": "\"+90-3126862848",
+    "geo1": "38.938015001887170",
+    "geo2": "33.538985252380370"
+  },
+  {
+    "name": "EVREN",
+    "address": "YeniMah.CumhuriyetCad.No:73/CEvren/ANKARA",
+    "code": "3128935068",
+    "phoneNumber": "\"+90-3128935068",
+    "geo1": "39.020033917449894",
+    "geo2": "33.805580735206604"
+  }
+]

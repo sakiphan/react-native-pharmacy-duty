@@ -1,20 +1,21 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import PharmaciesList from './src/components/Pharmacies-List/PharmaciesList';
+import LoadingScreen from './src/components/LoadingScreen'; 
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+const App = () => {
+  const [loading, setLoading] = useState(true);
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+  useEffect(() => {
+    
+    setTimeout(() => {
+      setLoading(false);
+    }, 2000); 
+
+    // Clean up the effect
+    return () => {};
+  }, []);
+
+  return loading ? <LoadingScreen /> : <PharmaciesList />;
+};
+
+export default App;
